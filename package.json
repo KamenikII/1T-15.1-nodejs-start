@@ -1,0 +1,15 @@
+{
+  "name": "node_15_1_start",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sigma-js/primes": "^1.0.3",
+    "fast-sort": "^3.4.1"
+  }
+}
